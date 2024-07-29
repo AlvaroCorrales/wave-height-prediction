@@ -1,5 +1,5 @@
 # Forecasting in the Age of Foundation Models
-In this repo you can find the code that I used to write the blog _Forecasting in the Age of Foundation Models_. 
+In this repo you can find the code that I used to write the blog [_Forecasting in the Age of Foundation Models_](https://medium.com/towards-data-science/forecasting-in-the-age-of-foundation-models-8cd4eea0079d), which was published on Towards Data Science on 20 July 2024. 
 
 In the blog, I benchmark a foundation model for time series forecasting, [Lag-Llama](https://huggingface.co/time-series-foundation-models/Lag-Llama), against an XGBoost forecaster. 
 
